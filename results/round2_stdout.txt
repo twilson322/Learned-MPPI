@@ -1,0 +1,14 @@
+  [mlp_ensemble_round2] epoch   0 train -1.5051 val mse (normalized) 0.05374
+  [mlp_ensemble_round2] epoch  20 train -3.0061 val mse (normalized) 0.03964
+  [mlp_ensemble_round2] epoch  40 train -3.2003 val mse (normalized) 0.03945
+  [mlp_ensemble_round2] epoch  59 train -3.2141 val mse (normalized) 0.03936
+control mlp_ensemble_round2 seed 0 success=True final_err=0.19
+control mlp_ensemble_round2 seed 1 success=True final_err=1.53
+control mlp_ensemble_round2 seed 2 success=True final_err=0.19
+control mlp_ensemble_round2 seed 3 success=True final_err=0.88
+control mlp_ensemble_round2 seed 4 success=True final_err=0.47
+control mlp_ensemble_round2 seed 5 success=True final_err=0.70
+control mlp_ensemble_round2 seed 6 success=True final_err=0.02
+control mlp_ensemble_round2 seed 7 success=True final_err=0.50
+control mlp_ensemble_round2 seed 8 success=True final_err=1.13
+control mlp_ensemble_round2 seed 9 success=True final_err=0.08

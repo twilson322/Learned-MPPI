@@ -1,0 +1,9 @@
+pose,model,dtheta_dot_rad_s
+hanging,oracle,-0.506
+hanging,greybox,-0.495
+hanging,mlp_ensemble,-0.511
+hanging,koopman_edmd,-0.420
+upright,oracle,0.617
+upright,greybox,0.600
+upright,mlp_ensemble,0.700
+upright,koopman_edmd,-0.420

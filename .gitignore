@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results/*.pkl
+results/r2_src_*.csv
+.pytest_cache/
